@@ -1,9 +1,13 @@
 #include <stdio.h>
 /*
+ * main() - Entry point
+ *
  * use the puts() function
- * main - entry point
- * 
- * return =o*/
+ *
+ *
+ * Return: Always 0
+ *
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
