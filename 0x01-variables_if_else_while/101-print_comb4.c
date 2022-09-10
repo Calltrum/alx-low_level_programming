@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Prints numbers between 012 to 789.
  *
  * Return: Always 0 (Success)
@@ -17,7 +16,7 @@ int main(void)
 	while (e < 58)
 	{
 		i = 48;							
-		while (i < 58)						
+		while (i < 58)
 		{
 			g = 48;
 			while (g < 58)
