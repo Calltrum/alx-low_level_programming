@@ -17,7 +17,5 @@ functions written in the project.
 | `5-strstr.c`           | `char *strstr(char *haystack, char *needle);`                  |
 | `7-print_chessboard.c` | `void print_chessboard(char (*a)[8]);`                         |
 | `8-print_diagsums.c.c` | `void print_diagsums(int *a, int size);`                       |
-| `100-set_string.c`     | `void set_string(char **s, char *to);`
-	  |
-| `101-crackme_password` |
-	  |
+| `100-set_string.c`     | `void set_string(char **s, char *to);`			  |
+| `101-crackme_password` | `no prototype;`						  |
